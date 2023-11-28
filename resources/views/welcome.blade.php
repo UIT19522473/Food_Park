@@ -10,6 +10,8 @@
 
 <body>
     <h1>hello</h1>
+    <a href="<?php echo 'login'; ?>">Login</a>
+    <a href="<?php echo 'login'; ?>">Register</a>
 </body>
 
 </html>
